@@ -1,1 +1,2 @@
 this is chapter 2.
+this is minor change in chapter 2.
